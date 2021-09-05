@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FingerPaints</string>
+
+    <string name="pred">Red Paint</string>
+    <string name="pblue">Blue Paint</string>
+    <string name="pgreen">Green Paint</string>
+    <string name="pblack">Black Paint</string>
+    <string name="undo">UNDO</string>
+    <string name="undo_verbose">Undo Last Line</string>
+    <string name="drawing_name">Drawing Name</string>
+    <string name="cancel">CANCEL</string>
+    <string name="save">SAVE</string>
+    <string name="save_verbose">Save Drawing</string>
+    <string name="load">LOAD</string>
+    <string name="load_verbose">Load a Drawing</string>
+    <string name="no_drawings_found">You have no stored drawings currently.</string>
+</resources>
